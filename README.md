@@ -7,3 +7,4 @@ Aiming to use GitHub to host my applications
 
 Testing GitHub Desktop from my Windows PC
 
+Testing changes made directly on GitHub
